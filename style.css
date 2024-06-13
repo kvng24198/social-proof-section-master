@@ -29,7 +29,7 @@ padding: 20px;
 }
 .part-1{
     width: 400px;
-    margin-right: 100px;
+    margin-right: 60px;
     margin-bottom: 70px;
     border: 1px solid black;
 }
@@ -42,6 +42,7 @@ width: 200px;
 }
 .rating{
     border: 1px solid black;
+    
 }
 .review{
     background-color: hsl(300, 24%, 96%);
@@ -53,6 +54,9 @@ width: 200px;
     font-weight: 400;
     margin-top: 15px;
     margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
 }
 .report{
     background-color: hsl(300, 24%, 96%);
@@ -64,6 +68,10 @@ width: 200px;
     font-weight: 400;
     margin-top: 15px;
     margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
+    margin-left: 50px;
 }
 .best{
     background-color: hsl(300, 24%, 96%);
@@ -76,6 +84,10 @@ width: 200px;
     margin-top: 15px;
     margin-bottom: 10px;
     border: 1px solid black;
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
+    margin-left: 80px;
 
 }
 .one{
@@ -83,29 +95,34 @@ width: 200px;
 }
 .content{
     display: flex;
-    justify-content:space-around;
     border: 1px solid black;
+    align-items: center;
+    margin-right: 30px;
 }
 .content-1{
     background-color:  hsl(300, 43%, 22%);
     border: 1px solid black;
    width:270px ;
    margin-right: 15px;
+   padding: 20px;
 }
 .content-2{
     background-color:  hsl(300, 43%, 22%);
     border: 1px solid black;
    width:270px ;
    margin-right: 15px;
-  
+  margin-top:25px ;
+  padding: 20px;
+
 }
 .content-3{
     background-color:  hsl(300, 43%, 22%);
     border: 1px solid black;
    width:270px ;
+   margin-top: 50px;
+   padding: 20px;
+
 }
 .man{
-    padding-top: 20px;
-   
 }
 
