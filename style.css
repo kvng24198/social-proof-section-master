@@ -171,9 +171,9 @@ border-radius: 5px;
     padding-bottom: 5px;
 }
 /* media query */
-@media (max-width: 376px){
+@media (max-width: 500px){
     .body{
-        max-width: 376px;
+        max-width: 500px;
         margin:0 auto;
         padding: 0 10px;
     }
